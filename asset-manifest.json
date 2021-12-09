@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hedelvalle.github.io/csb-evmls/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hedelvalle.github.io/csb-evmls/static/js/main.ca91cad4.chunk.js",
+    "main.js.map": "https://hedelvalle.github.io/csb-evmls/static/js/main.ca91cad4.chunk.js.map",
+    "runtime-main.js": "https://hedelvalle.github.io/csb-evmls/static/js/runtime-main.a315d961.js",
+    "runtime-main.js.map": "https://hedelvalle.github.io/csb-evmls/static/js/runtime-main.a315d961.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://hedelvalle.github.io/csb-evmls/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://hedelvalle.github.io/csb-evmls/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://hedelvalle.github.io/csb-evmls/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hedelvalle.github.io/csb-evmls/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://hedelvalle.github.io/csb-evmls/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a315d961.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ca91cad4.chunk.js"
+  ]
+}
